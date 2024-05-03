@@ -1,0 +1,79 @@
+.mile-nav{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    padding: 66px;
+    position: relative;
+    z-index: 2;
+    top: 1px;
+    
+}
+.container h4{
+  display: inline-block;
+  margin-right: 40px;
+}
+  .mile-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+  }
+  
+  .mile-nav-item {
+    margin-right: 30px;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  
+  .mile-nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    transition: 0.3s;
+    margin-top: 60px;
+  }
+  
+  .mile-nav-link:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .container{
+    white-space: nowrap;
+    width: calc(25% - 10px);
+  }
+
+
+  .mini1{
+    display: inline-block;
+    margin-left: 40px;
+    top: 55px;
+  }
+
+  .mini2{
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .mini3{
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .mini4{
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .mini5{
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .camilota{
+    margin-top: -20px;
+  }

@@ -1,0 +1,38 @@
+.baixo{
+    background-color: rgb(25, 87, 255);
+    color: rgb(255, 255, 255);
+    align-items: center;
+    padding: 15px 750px;
+    margin-top: 350px;
+    position: relative;
+    left: 26px;
+   
+}
+
+
+.textinho1{
+    position: relative;
+    z-index: 2;
+    bottom: 50px;
+    font-size: 12px;
+    white-space: nowrap;
+    margin-top: 50px;
+    right: 65px;
+
+}
+
+.textinho2{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    white-space: nowrap;
+    margin-top: 10px;
+}
+
+.andrey{
+    position: relative;
+    left: 500px;
+    top: 55px;
+}

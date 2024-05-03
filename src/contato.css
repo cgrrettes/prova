@@ -1,0 +1,26 @@
+.div-formulario{
+    align-items: left;
+    justify-content: left;
+    background-color: transparent;
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+}
+
+.formulario-container{
+    margin-bottom: 300px;
+    font-size: 40px;
+    margin-right: 1114px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    bottom: 250px;
+    right: 15px;
+}
+
